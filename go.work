@@ -10,4 +10,5 @@ use (
 	./estructurasRepetitivas01
 	./estructurasRepetitivas02
 	./estructurasRepetitivas03
+	./punteros
 )
